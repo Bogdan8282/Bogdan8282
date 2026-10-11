@@ -1,6 +1,6 @@
 ## Hi, I’m a Freelance Developer & Programming Teacher! 👋
 
-I love building web applications and helping others learn to code. With a year of hands-on experience, I bring a fresh perspective and an eagerness to take on new challenges.
+I love building web applications and helping others learn to code. With a couple years of hands-on experience, I bring a fresh perspective and an eagerness to take on new challenges.
 
 
 ### 🛠 My Tech Stack
